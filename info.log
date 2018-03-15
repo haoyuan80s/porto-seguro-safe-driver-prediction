@@ -1,0 +1,21 @@
+INFO:root:val_loss -- [0.14532536]
+INFO:root:val_loss -- [0.08449683]
+INFO:root:Epoch: 0: val_loss -- [0.0954373]
+INFO:root:Epoch: 1: val_loss -- [0.08372349]
+Epoch: 0: val_loss -- [0.14532536]
+Epoch: 1: val_loss -- [0.08449683]
+{1: 1}
+Epoch 0, val_loss -- [0.0877066]
+Epoch 1, val_loss -- [0.08438043]
+epoch | batch_size | lr | criterion | optimizer = 2, 64, 0.001, <class 'torch.nn.modules.loss.MSELoss'>, <class 'torch.optim.adam.Adam'>
+Epoch 0, val_loss -- [0.08537]
+Epoch 1, val_loss -- [0.0852977]
+epoch | batch_size | lr | criterion | optimizer = 2 | 64 | 0.001 | <class 'torch.nn.modules.loss.MSELoss'> | <class 'torch.optim.adam.Adam'>
+Epoch 0, val_loss -- [0.14532536]
+Epoch 1, val_loss -- [0.08449683]
+epoch | batch_size | lr | criterion | optimizer = 2 | 64 | 0.001 | <class 'torch.nn.modules.loss.MSELoss'> | <class 'torch.optim.adam.Adam'>
+Epoch 0, val_loss -- [0.11307997]
+Epoch 1, val_loss -- [0.08731227]
+h_size = 1500, epoch = 2, batch_size = 64, lr = 0.001,  criterion = <class 'torch.nn.modules.loss.MSELoss'>,  optimizer = <class 'torch.optim.adam.Adam'>
+Epoch 0, val_loss -- [0.14120398]
+Epoch 1, val_loss -- [0.08575536]
