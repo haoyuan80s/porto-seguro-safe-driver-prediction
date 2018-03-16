@@ -2,7 +2,7 @@ from .importing import *
 
 #__all__ = ['load_data', 'load_noisy_data']
 
-DATA_PATH = "/Users/haoyuan/kaggle/porto-seguro-safe-driver-prediction/data"
+DATA_PATH = "./data"
 
 def raw_data():
     x = os.listdir(f'{DATA_PATH}')
